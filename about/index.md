@@ -3,4 +3,4 @@
 
 About Me
 
-Currently nothing here. 
+Coming soon. Currently nothing here. 
