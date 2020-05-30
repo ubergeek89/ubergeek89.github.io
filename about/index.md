@@ -7,7 +7,7 @@ Thank you for visiting my blog. I started this blog because I wish to write my t
 
 I started my journey in the technology world 15 years back when i was about 14 years old. I was inspired by my late father who was a professor of statistics and also a programmer. I was hooked on to computers - and specifically programming. We had a couple of books on BASIC and FORTRAN and a computer at home. That was in mid 2000s. QBASIC was the first programming language i programmed in followed by C and Java. I built many simple console projects back then. As such science and technology has always been my first love.
 
-Later in my career, I started my own startup in the programmatic online advertising world. After that, i went to work with multiple tech product startups apart from building some side projects.
+Later in my career, I started my own startup in the programmatic online advertising world. I went to work with multiple technology product startups. I have a keen interest in the startup world and i hope to become a successful entrepreneur some time soon ;)
 
 Currently, i am working on a couple of very exciting projects. Will post about them sometime soon ;)
 
