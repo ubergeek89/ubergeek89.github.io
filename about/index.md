@@ -9,7 +9,7 @@ I started my journey in the technology world 15 years back when i was about 14 y
 
 Later in my career, I started my own startup in the programmatic online advertising world. I went to work with multiple technology product startups. I have a keen interest in the startup world.
 
-Currently, i am working on a couple of very exciting projects. Will post about them sometime soon ​ ​ ​ ​ :stuck_out_tongue_winking_eye:
+Currently, i am working on a couple of very exciting projects.
 
 You can reach me at adysingh1989 [at] gmail.com
 
