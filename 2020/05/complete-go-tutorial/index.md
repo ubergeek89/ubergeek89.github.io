@@ -22,7 +22,12 @@ func main(){
 You can save it to a text file hello.go. Navigate to the directory at the command line and run it by typing -
 
 ```bash
-go run hello.go
+#go run hello.go
+Hello World
 ```
 
+You should see "Hello World" printed on the screen.
 
+{{< admonition type=tip title="This is a tip" open=false >}}
+A **tip** banner
+{{< /admonition >}}

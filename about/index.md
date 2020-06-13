@@ -5,13 +5,13 @@ Howdy,
 
 Thank you for visiting my blog. I started this blog because I wish to write my thoughts about computer science, statistics, startups, technology products and also some essays and stories. I attempted to blog many years back when i was younger. I ended up deleting my old blog.
 
-I started my journey in the technology world 15 years back when i was about 14 years old. I was hooked on to computers - and specifically programming. We had a couple of books on BASIC and FORTRAN and a computer at home. That was in mid 2000s. QBASIC was the first programming language i programmed in followed by C and Java. I built many simple console projects back then. And so, science and technology has always been my first love.
+I started my journey in the technology world 15 years back when i was about 14 years old. I was hooked on to computers - and specifically programming. We had a couple of books on BASIC and FORTRAN and a computer at home. That was in mid and early 2000s. QBASIC was the first programming language i programmed in followed by C. I built many simple console projects back then. And so, science and technology has always been my first love.
 
-Later in my career, I started my own startup in the programmatic online advertising world. I went to work with multiple technology product startups. I have a keen interest in the startup world.
+Later in my life and career, I started my own startup in the programmatic online advertising world. I went on to work with multiple technology product startups. I have a keen interest in the technology and startup world.
 
 Currently, i am working on a couple of very exciting projects.
 
-You can reach me at adysingh1989 [at] gmail.com
+You can reach me at adysingh1989 [at] gmail.com.
 
 Thank you for reading.
 
